@@ -51,3 +51,5 @@ $ node example.js hello --name Parrot
 ```
 
 ![alt](parrot.png)
+
+Yukaridaki ornekte de goruldugu uzere, yargs modulu ile argumanlar arasinda durum(positional) degiskenlik gosteren bir eylem gerceklesti. Bunun haricinde, adlandirilmis bagimsiz degiskenler deger cifti olarak atandi ve bayraklar(flags) uygulamaya bilgi saglayan bir anahtar olarak cikti almamizi sagladi.
